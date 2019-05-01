@@ -14,13 +14,6 @@
 
 
 ## ภาพรวมระบบ
-```mermaid
-graph LR
-A((Arduino)) --Text output--> B[LCD]
-A --Locker--> C[Servo]
-C --Unlock/Lock--> BOX
-D(Ultrasonic) --Distance input--> A
-E(Button) --Menu input--> A
-```
+![diagram](pic/Untitled.jpg =150x100)
 ## วิธีการใช้
 
