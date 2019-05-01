@@ -14,6 +14,6 @@
 
 
 ## ภาพรวมระบบ
-![diagram](pic/Untitled.jpg =150x100)
+![diagram](pic/Untitled.png =600x300)
 ## วิธีการใช้
 
