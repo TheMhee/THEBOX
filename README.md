@@ -14,6 +14,6 @@
 
 
 ## ภาพรวมระบบ
-<img src="https://github.com/TheMhee/THEBOX/blob/master/pic/Untitled.png" width="800" height="300">
+<img src="https://github.com/TheMhee/THEBOX/blob/master/pic/Untitled.png" width="600" height="300">
 ## วิธีการใช้
 
