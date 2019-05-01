@@ -42,7 +42,7 @@
 |  |  | 61070190 |
 
  ## Advisor
- | <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/45577837_10156055460607532_5297625766278725632_n.jpg?_nc_cat=106&_nc_eui2=AeEUiMe76UWXpc0YvNOrpz6rTqE_jcVJgMXg0iY0c37G23x_RsEdLlIVF4PadM603MG1syxFfddltGbjrDvmg7S1lMo7Z3vpikwW9B7Nk2oABA&_nc_ht=scontent.fbkk12-1.fna&oh=871c8dbc2cf1dff1d8f732ddb794a7a9&oe=5D66B613" width="100" height="200"/> | ชื่อ |
+ | <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/45577837_10156055460607532_5297625766278725632_n.jpg?_nc_cat=106&_nc_eui2=AeEUiMe76UWXpc0YvNOrpz6rTqE_jcVJgMXg0iY0c37G23x_RsEdLlIVF4PadM603MG1syxFfddltGbjrDvmg7S1lMo7Z3vpikwW9B7Nk2oABA&_nc_ht=scontent.fbkk12-1.fna&oh=871c8dbc2cf1dff1d8f732ddb794a7a9&oe=5D66B613" width="150" height="200"/> | ชื่อ |
  |----------|:------------:|
 |  |  |
 
