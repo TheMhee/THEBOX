@@ -42,7 +42,8 @@
 |  |  | 61070190 |
 
  ## Advisor
- | <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/45577837_10156055460607532_5297625766278725632_n.jpg?_nc_cat=106&_nc_eui2=AeEUiMe76UWXpc0YvNOrpz6rTqE_jcVJgMXg0iY0c37G23x_RsEdLlIVF4PadM603MG1syxFfddltGbjrDvmg7S1lMo7Z3vpikwW9B7Nk2oABA&_nc_ht=scontent.fbkk12-1.fna&oh=871c8dbc2cf1dff1d8f732ddb794a7a9&oe=5D66B613" width="150" height="200"/> | ชื่อ |
+ | <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/45577837_10156055460607532_5297625766278725632_n.jpg?_nc_cat=106&_nc_eui2=AeEUiMe76UWXpc0YvNOrpz6rTqE_jcVJgMXg0iY0c37G23x_RsEdLlIVF4PadM603MG1syxFfddltGbjrDvmg7S1lMo7Z3vpikwW9B7Nk2oABA&_nc_ht=scontent.fbkk12-1.fna&oh=871c8dbc2cf1dff1d8f732ddb794a7a9&oe=5D66B613" width="150" height="200"/> | <img src="https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/14611010_10153805956002331_6002362915012083123_n.jpg?_nc_cat=111&_nc_eui2=AeFqpu8EDtg7jMN42r_6uuaFBvlGSHndvzQki6CZE4hPbOIppe1Otj_IFS7B9BAyhZLGYCn-zDneXYd4WC9kioAa5QBcDCC1LA9rd1-ebOdNqw&_nc_ht=scontent.fbkk8-3.fna&oh=611aa033d0ed16b8300e4b9cd490feab&oe=5D2AFF8F3" width="150" height="200"/> |
  |----------|:------------:|
 |  |  |
+
 
