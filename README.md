@@ -14,7 +14,7 @@
 
 
 ## ภาพรวมระบบ
-<img src="https://github.com/TheMhee/THEBOX/blob/master/pic/Untitled.png" width="800" height="200">
+<img src="https://github.com/TheMhee/THEBOX/blob/master/pic/Untitled.png" width="800" height="200"/>
 ## วิธีการใช้
 - การปลดล็อคกล่องนี้ได้ ต้องใช้รหัสความห่างของวัตถุกับด้านซ้ายของกล่อง 5ค่า เพื่อปลดล็อค
 - ปุ่มด้านล่างจอ LCD เป็นปุ่มกดเลือกเมนู โดนปุ่มซ้ายคือเลื่อนไปทางซ้าย ปุ่มกลางคือตกลง ปุ่มขวาคือเลื่อนไปทางขวา
