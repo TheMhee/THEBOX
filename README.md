@@ -14,7 +14,7 @@
 
 
 ## ภาพรวมระบบ
-![diagram](https://github.com/TheMhee/THEBOX/blob/master/pic/Untitled.png =600x300)
+![diagram](https://github.com/TheMhee/THEBOX/blob/master/pic/Untitled.png)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ## วิธีการใช้
 
