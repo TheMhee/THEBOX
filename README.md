@@ -38,6 +38,8 @@
  ## วิดีโอสาธิต
   (ใส่วิดีโอ)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WvHhYGzFPHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  https://www.youtube.com/watch?v=WvHhYGzFPHE
+  
  ## สมาชิก
 | รูป | ชื่อ | รหัสนักศึกษา | Github |
 |----------|:-------------|:---------|:---------:|
