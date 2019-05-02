@@ -46,7 +46,7 @@
 | <img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/55498759_2225253327550460_1214317306188922880_n.jpg?_nc_cat=104&_nc_eui2=AeEMQJhKiJv2jmBo0yHZxKQGCZjnuXSTnReHhvqb1fTU0qcgXfJnQI-Pgc7KXD14jaSvFilfP6R8WduaSNs1Bcfge52HJrS4wuIDnAPkRvnG5g&_nc_ht=scontent.fbkk12-2.fna&oh=cbf067060a18fc5949cef0f112967718&oe=5D7367C9" width="170" height="200"> | ธัญเทพ อินรุ่ง | 61070086 |  |
 | <img src="https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.0-1/c0.0.890.890a/51814829_1843939045735034_2131151699849510912_n.jpg?_nc_cat=103&_nc_eui2=AeGFmEvWQQxLQTrnAJXWIuWu59mVxwKbEZl7k0Ntrpwpl_Z_QbmADj10v4OiSP9WbXjezA0nL6EPcptJvqxIXCrqfTgvy3F0BbC1iisKKaRydg&_nc_ht=scontent.fbkk8-2.fna&oh=f09110e7ccd543ec0408bc875c614f8b&oe=5D2AC01F" width="170" height="200"> | รุ่งวราพร คุตะนนท์ | 61070190 |  |
 
- ## Adviso
+ ## Advisor
  | <img src="https://scontent.fbkk8-3.fna.fbcdn.net/v/t1.0-9/14611010_10153805956002331_6002362915012083123_n.jpg?_nc_cat=111&_nc_eui2=AeFqpu8EDtg7jMN42r_6uuaFBvlGSHndvzQki6CZE4hPbOIppe1Otj_IFS7B9BAyhZLGYCn-zDneXYd4WC9kioAa5QBcDCC1LA9rd1-ebOdNqw&_nc_ht=scontent.fbkk8-3.fna&oh=611aa033d0ed16b8300e4b9cd490feab&oe=5D2AFF8F" width="170" height="200"/> | <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/45577837_10156055460607532_5297625766278725632_n.jpg?_nc_cat=106&_nc_eui2=AeEUiMe76UWXpc0YvNOrpz6rTqE_jcVJgMXg0iY0c37G23x_RsEdLlIVF4PadM603MG1syxFfddltGbjrDvmg7S1lMo7Z3vpikwW9B7Nk2oABA&_nc_ht=scontent.fbkk12-1.fna&oh=871c8dbc2cf1dff1d8f732ddb794a7a9&oe=5D66B613" width="170" height="200"/> |
 |----------|:------------:|
 | รศ.ดร. กิติ์สุชาต พสุภา | รศ.ดร. ปานวิทย์ ธุวะนุติ |
